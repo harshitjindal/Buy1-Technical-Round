@@ -10,8 +10,8 @@ const thumbsContainer = {
 
 const thumb = {
 	display: "inline-flex",
-	borderRadius: 2,
-	border: "1px solid #eaeaea",
+	// borderRadius: 2,
+	// border: "1px solid #eaeaea",
 	marginBottom: 8,
 	marginRight: 8,
 	width: "100%",
