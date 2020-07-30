@@ -14,8 +14,8 @@ const thumb = {
 	border: "1px solid #eaeaea",
 	marginBottom: 8,
 	marginRight: 8,
-	width: "auto",
-	height: "auto",
+	width: "100%",
+	height: "100%",
 	padding: 4,
 	boxSizing: "border-box",
 };
@@ -28,8 +28,8 @@ const thumbInner = {
 
 const img = {
 	display: "block",
-	width: "auto",
-	height: "100%",
+	width: "30vw",
+	height: "auto",
 };
 
 const baseStyle = {
