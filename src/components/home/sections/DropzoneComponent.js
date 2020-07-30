@@ -14,8 +14,8 @@ const thumb = {
 	border: "1px solid #eaeaea",
 	marginBottom: 8,
 	marginRight: 8,
-	width: 100,
-	height: 100,
+	width: "auto",
+	height: "auto",
 	padding: 4,
 	boxSizing: "border-box",
 };
